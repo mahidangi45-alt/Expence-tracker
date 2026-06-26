@@ -10,14 +10,3 @@ the program should allow user to:
 
   <br>
 all the tasks are implemented using  : loops,if-else,list and dictionarys only
-
-
-
-
-
-
-
-
-
-
-
